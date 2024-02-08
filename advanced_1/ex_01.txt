@@ -1,0 +1,8 @@
+It was a %{adjective} night before Christmas when
+all through the house, not a %{noun} was %{verb}ing,
+not even a mouse. The %{plural_noun} were all hung by the fire
+with care, and we all knew %{name} soon would be there.
+The %{plural_noun} were nestled all warm in their beds,
+while visions of %{plural_noun} %{verb}ed in their heads.
+Thats when the %{adjective} reindeer started %{verb}ing on the roof,
+and out appeared %{name}, (s)he was there in a poof!
